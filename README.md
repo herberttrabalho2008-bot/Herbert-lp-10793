@@ -8,12 +8,17 @@ Repositório de trabalho da UFCD 10793, partilhado com o professor. **Todo o tra
 lp-10793/
   README.md          este ficheiro
   .gitignore         ficheiros que não vão para o GitHub
-  aulas/             o trabalho de cada aula
+  autoavaliacao-10793.docx
+  aulas/             o trabalho de cada aula (notebooks, scripts e dados usados)
     aula-02.ipynb
     aula-03.ipynb
+    aula-25/         aula com vários ficheiros (testes e funções)
     ola.py
   fichas/            as fichas de trabalho e de consolidação
-    ficha-05.ipynb
+    ficha-04.ipynb
+    ficha-tempo-reacao.ipynb
+  projeto/           o projeto final (acidentes), testes e heteroavaliação
+  teste01/           notebook do teste 01
 ```
 
 ## Regras
